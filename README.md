@@ -16,4 +16,4 @@ This project is a responsive newsletter sign-up form with a dynamic thank-you co
 
 ### Screenshot
 
-![](./Preview%20Images/Desktop_preview_news_letter.png);
+![](./Preview%20Images/Desktop_preview_news_letter.png)
